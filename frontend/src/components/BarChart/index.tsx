@@ -80,7 +80,7 @@ const BarChart = () =>{
             height="240"
         />
     );
-}
+} 
 
 
 export default BarChart;
